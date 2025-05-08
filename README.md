@@ -5,8 +5,6 @@
 
 Material referente à disciplina de pós-graduação **Sistemas Especialistas Aplicado à Engenharia (P2SEA)**, criado pelo [Dr. Arnaldo de Carvalho Junior](https://www.linkedin.com/in/arnaldocarvalho/), com o auxílio do graduando em Engenharia [Bruno da Silva Alves](https://www.linkedin.com/in/bruno-alves-839813237).
 
-![foto](foto.jpg)
-
 ## **Aula 01**
 
 [1 - Introdução À Sistemas Especialistas](https://github.com/EAILAB-IFSP/Expert_Systems/blob/Expert_Systems/1%20-%20Introdu%C3%A7%C3%A3o%20%C3%80%20Sistemas%20Especialistas.pdf)
