@@ -1,11 +1,11 @@
 ![Logo Dourado](Logo_Dourado.jpg)
 
 
-# Sistemas Especialistas erwtyuiopo
+# Sistemas Especialistas
 
 Material referente à disciplina de pós-graduação **Sistemas Especialistas Aplicado à Engenharia (P2SEA)**, criado pelo [Dr. Arnaldo de Carvalho Junior](https://www.linkedin.com/in/arnaldocarvalho/), com o auxílio do graduando em Engenharia [Bruno da Silva Alves](https://www.linkedin.com/in/bruno-alves-839813237).
 
-![Logo Dourado](Logo_Dourado.jpg)
+![foto](foto.jpg)
 
 ## **Aula 01**
 
