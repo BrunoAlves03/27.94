@@ -1,4 +1,5 @@
-<img src="Logo_Dourado.jpg" style="width:60%;">
+<img src="Logo_Dourado.jpg" style="width:30%;">
+
 
 # Sistemas Especialistas erwtyuiopo
 
